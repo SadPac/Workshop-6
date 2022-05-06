@@ -47,6 +47,12 @@ Para la conectividad se utilizó el IoT hub provisto por Azure, este permite cre
 
 ## Análisis de Datos
 
+Los datos enviados por el sensor fueron visualizados mediante el uso de la extensión de VS-Code 'Azure IoT Hub' la cual permite observar los datos en el servidor de IoT de azure en tiempo real, estos datos llegan en formato .JSON para así facilitar su procesamiento.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SadPac/Workshop-6/main/img/vscode.png">
+</p>
+
 
 
 # Simulación
